@@ -8,22 +8,47 @@
 import SwiftUI
 
 struct DefaultView: View {
+    @Environment(\.openURL) var openURL
+    
     var body: some View {
         Text("Welcome to IPSWTool!")
             .font(.largeTitle)
-            .padding()
+            .padding(.bottom)
         Text("IPSWTool is a all-in-one tool that can download and extract IPSW firmwares.")
         Text("You can download any version of IPSW that you want (except Apple Watch)")
         Text("Also, you can extract IPSW firmwares and IMG4 (IM4P Payload) files.")
             
         Text("Click sidebar to start using IPSWTool.")
             .padding(10)
+            .padding(.bottom, 5)
+        HStack(spacing: 85){
+            VStack{
+                Text("Contribute")
+                    .font(.title2)
+                Button(action: {
+                    openURL(URL(string: "https://github.com/fxrcha/IPSWTool")!)
+                }) {
+                    Text("Github")
+                }
+            }
+            VStack{
+                Text("Bug Report")
+                    .font(.title2)
+                Button(action: {
+                    openURL(URL(string: "https://github.com/fxrcha/IPSWTool/issues")!)
+                }) {
+                    Text("Make Issue")
+                }
+            }
+        }
     }
 }
 
 struct ContentView: View {
     func toggleSidebar() {
-            NSApp.keyWindow?.firstResponder?.tryToPerform(#selector(NSSplitViewController.toggleSidebar(_:)), with: nil)
+            NSApp.keyWindow?.firstResponder?.tryToPerform(
+                #selector(NSSplitViewController.toggleSidebar(_:)), with: nil
+            )
     }
     
     var body: some View {
