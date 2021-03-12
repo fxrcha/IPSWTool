@@ -41,6 +41,7 @@
 		FC1E633925FB917D009DFBFD = {
 			isa = PBXGroup;
 			children = (
+				FCCAB92325FBB4BA002FF05D /* assets */,
 				FC1E634425FB917D009DFBFD /* ipswtool */,
 				FC1E634325FB917D009DFBFD /* Products */,
 			);
@@ -75,6 +76,13 @@
 				FC1E634C25FB917E009DFBFD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FCCAB92325FBB4BA002FF05D /* assets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
