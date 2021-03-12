@@ -8,6 +8,13 @@
 import Foundation
 import SwiftUI
 
+struct iPhoneView: View {
+    var body: some View {
+        Text("Hello World")
+    }
+}
+
+
 struct DownloadView: View {
     var body: some View{
         NavigationView {

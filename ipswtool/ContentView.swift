@@ -56,7 +56,7 @@ struct ContentView: View {
             List {
                 Section(header: Text("Welcome!")){
                     NavigationLink(destination: DefaultView()) {
-                        Label("Introduction", systemImage: "message")
+                        Label("Introduction", systemImage: "message.fill")
                     }
                 }
                 Section(header: Text("Downloads")){
@@ -73,7 +73,10 @@ struct ContentView: View {
                         Label("Mac (Apple Silicon)", systemImage: "desktopcomputer")
                     }
                     NavigationLink(destination: DefaultView()) {
-                        Label("HomePods", systemImage: "homepod")
+                        Label("Apple TV & HomePod", systemImage: "homepod")
+                    }
+                    NavigationLink(destination: DefaultView()) {
+                        Label("T2 Chips", systemImage: "memorychip")
                     }
                 }
                 Section(header: Text("Extract")){
@@ -93,6 +96,7 @@ struct ContentView: View {
                     }
                 }
             }
+            DefaultView()
         }
         .listStyle(SidebarListStyle())
         .navigationTitle("IPSWTool")
@@ -102,6 +106,7 @@ struct ContentView: View {
                     Image(systemName: "sidebar.left")
             })
         }
+        
         }
     }
 }
