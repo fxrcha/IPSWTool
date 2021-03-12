@@ -1,0 +1,37 @@
+{
+    "AppleTV2,1": {
+        "name": "Apple TV 2G",
+        "boardconfig": "k66ap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 16
+    },
+    "AppleTV3,1": {
+        "name": "Apple TV 3",
+        "boardconfig": "J33AP",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 8
+    },
+    "AppleTV3,2": {
+        "name": "Apple TV 3 (2013)",
+        "boardconfig": "J33iAP",
+        "platform": "s5l8947x",
+        "cpid": 35143,
+        "bdid": 0
+    },
+    "AppleTV5,3": {
+        "name": "Apple TV 4 (2015)",
+        "boardconfig": "J42dAP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 52
+    },
+    "AudioAccessory5,1": {
+        "name": "HomePod mini",
+        "boardconfig": "B520AP",
+        "platform": "t8006",
+        "cpid": 32774,
+        "bdid": 34
+    }
+}

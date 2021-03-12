@@ -1,0 +1,114 @@
+{
+    "iBridge2,1": {
+        "name": "iBridge2,1",
+        "boardconfig": "J137AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 10
+    },
+    "iBridge2,3": {
+        "name": "iBridge2,3",
+        "boardconfig": "J680AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 11
+    },
+    "iBridge2,4": {
+        "name": "iBridge2,4",
+        "boardconfig": "J132AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 12
+    },
+    "iBridge2,5": {
+        "name": "iBridge2,5",
+        "boardconfig": "J174AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 14
+    },
+    "iBridge2,7": {
+        "name": "iBridge2,7",
+        "boardconfig": "J780AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 7
+    },
+    "iBridge2,8": {
+        "name": "iBridge2,8",
+        "boardconfig": "J140kAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 23
+    },
+    "iBridge2,10": {
+        "name": "iBridge2,10",
+        "boardconfig": "J213AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 24
+    },
+    "iBridge2,12": {
+        "name": "iBridge2,12",
+        "boardconfig": "J140aAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 55
+    },
+    "iBridge2,6": {
+        "name": "iBridge2,6",
+        "boardconfig": "J160AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 15
+    },
+    "iBridge2,14": {
+        "name": "iBridge2,14",
+        "boardconfig": "J152fAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 58
+    },
+    "iBridge2,15": {
+        "name": "iBridge2,15",
+        "boardconfig": "J230kAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 63
+    },
+    "iBridge2,16": {
+        "name": "iBridge2,16",
+        "boardconfig": "J214kAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 62
+    },
+    "iBridge2,21": {
+        "name": "iBridge2,21",
+        "boardconfig": "J223AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 59
+    },
+    "iBridge2,22": {
+        "name": "iBridge2,22",
+        "boardconfig": "J215AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 56
+    },
+    "iBridge2,19": {
+        "name": "iBridge2,19",
+        "boardconfig": "J185AP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 34
+    },
+    "iBridge2,20": {
+        "name": "iBridge2,20",
+        "boardconfig": "J185fAP",
+        "platform": "t8012",
+        "cpid": 32786,
+        "bdid": 35
+    }
+}

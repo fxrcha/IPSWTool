@@ -131,6 +131,13 @@
 		FC75672125FBE4A100CAF396 /* iPhone9,2.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7566AC25FBE4A100CAF396 /* iPhone9,2.png */; };
 		FC75672225FBE4A100CAF396 /* iPhone9,4.png in Resources */ = {isa = PBXBuildFile; fileRef = FC7566AD25FBE4A100CAF396 /* iPhone9,4.png */; };
 		FC75672525FBE4C200CAF396 /* iBridge.png in Resources */ = {isa = PBXBuildFile; fileRef = FC75672425FBE4C200CAF396 /* iBridge.png */; };
+		FC75672F25FBF5A300CAF396 /* iphone.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672925FBF5A300CAF396 /* iphone.json */; };
+		FC75673025FBF5A300CAF396 /* mac.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672A25FBF5A300CAF396 /* mac.json */; };
+		FC75673125FBF5A300CAF396 /* t2.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672B25FBF5A300CAF396 /* t2.json */; };
+		FC75673225FBF5A300CAF396 /* ipod.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672C25FBF5A300CAF396 /* ipod.json */; };
+		FC75673325FBF5A300CAF396 /* etc.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672D25FBF5A300CAF396 /* etc.json */; };
+		FC75673425FBF5A300CAF396 /* ipad.json in Resources */ = {isa = PBXBuildFile; fileRef = FC75672E25FBF5A300CAF396 /* ipad.json */; };
+		FC75673725FBF5DB00CAF396 /* devices.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC75673625FBF5DB00CAF396 /* devices.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -261,6 +268,13 @@
 		FC7566AC25FBE4A100CAF396 /* iPhone9,2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone9,2.png"; sourceTree = "<group>"; };
 		FC7566AD25FBE4A100CAF396 /* iPhone9,4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone9,4.png"; sourceTree = "<group>"; };
 		FC75672425FBE4C200CAF396 /* iBridge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iBridge.png; sourceTree = "<group>"; };
+		FC75672925FBF5A300CAF396 /* iphone.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = iphone.json; sourceTree = "<group>"; };
+		FC75672A25FBF5A300CAF396 /* mac.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mac.json; sourceTree = "<group>"; };
+		FC75672B25FBF5A300CAF396 /* t2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = t2.json; sourceTree = "<group>"; };
+		FC75672C25FBF5A300CAF396 /* ipod.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ipod.json; sourceTree = "<group>"; };
+		FC75672D25FBF5A300CAF396 /* etc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = etc.json; sourceTree = "<group>"; };
+		FC75672E25FBF5A300CAF396 /* ipad.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ipad.json; sourceTree = "<group>"; };
+		FC75673625FBF5DB00CAF396 /* devices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = devices.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -277,6 +291,7 @@
 		FC1E633925FB917D009DFBFD = {
 			isa = PBXGroup;
 			children = (
+				FC75672725FBF58800CAF396 /* static */,
 				FC75663425FBE46900CAF396 /* images */,
 				FC1E634425FB917D009DFBFD /* ipswtool */,
 				FC1E634325FB917D009DFBFD /* Products */,
@@ -439,6 +454,28 @@
 			path = images;
 			sourceTree = "<group>";
 		};
+		FC75672725FBF58800CAF396 /* static */ = {
+			isa = PBXGroup;
+			children = (
+				FC75672825FBF59100CAF396 /* json */,
+				FC75673625FBF5DB00CAF396 /* devices.swift */,
+			);
+			path = static;
+			sourceTree = "<group>";
+		};
+		FC75672825FBF59100CAF396 /* json */ = {
+			isa = PBXGroup;
+			children = (
+				FC75672D25FBF5A300CAF396 /* etc.json */,
+				FC75672E25FBF5A300CAF396 /* ipad.json */,
+				FC75672925FBF5A300CAF396 /* iphone.json */,
+				FC75672C25FBF5A300CAF396 /* ipod.json */,
+				FC75672A25FBF5A300CAF396 /* mac.json */,
+				FC75672B25FBF5A300CAF396 /* t2.json */,
+			);
+			path = json;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -520,6 +557,7 @@
 				FC7566B525FBE4A100CAF396 /* iPhone11,8.png in Resources */,
 				FC75672225FBE4A100CAF396 /* iPhone9,4.png in Resources */,
 				FC75672025FBE4A100CAF396 /* iPad5,4.png in Resources */,
+				FC75672F25FBF5A300CAF396 /* iphone.json in Resources */,
 				FC7566F925FBE4A100CAF396 /* iPad3,4.png in Resources */,
 				FC7566BF25FBE4A100CAF396 /* AppleTV2,1.png in Resources */,
 				FC7566B725FBE4A100CAF396 /* MacBookPro17,1.png in Resources */,
@@ -554,6 +592,7 @@
 				FC75671825FBE4A100CAF396 /* iPad11,6.png in Resources */,
 				FC7566B925FBE4A100CAF396 /* iPhone13,3.png in Resources */,
 				FC7566C225FBE4A100CAF396 /* iPad8,10.png in Resources */,
+				FC75673025FBF5A300CAF396 /* mac.json in Resources */,
 				FC75671B25FBE4A100CAF396 /* iPad7,6.png in Resources */,
 				FC7566F225FBE4A100CAF396 /* iPhone10,6.png in Resources */,
 				FC7566D825FBE4A100CAF396 /* iPhone6,2.png in Resources */,
@@ -565,6 +604,7 @@
 				FC7566C125FBE4A100CAF396 /* iPhone10,2.png in Resources */,
 				FC7566C925FBE4A100CAF396 /* iPad4,6.png in Resources */,
 				FC75670925FBE4A100CAF396 /* iPad3,5.png in Resources */,
+				FC75673425FBF5A300CAF396 /* ipad.json in Resources */,
 				FC7566F325FBE4A100CAF396 /* AppleTV3,2.png in Resources */,
 				FC7566AE25FBE4A100CAF396 /* iPad13,2.png in Resources */,
 				FC7566F625FBE4A100CAF396 /* iPhone13,4.png in Resources */,
@@ -582,6 +622,7 @@
 				FC7566E725FBE4A100CAF396 /* iPad5,3.png in Resources */,
 				FC7566CF25FBE4A100CAF396 /* iPod3,1.png in Resources */,
 				FC7566CC25FBE4A100CAF396 /* iPad8,6.png in Resources */,
+				FC75673325FBF5A300CAF396 /* etc.json in Resources */,
 				FC75670725FBE4A100CAF396 /* iPad8,9.png in Resources */,
 				FC75670D25FBE4A100CAF396 /* iPad8,5.png in Resources */,
 				FC7566D525FBE4A100CAF396 /* iPad5,2.png in Resources */,
@@ -599,9 +640,11 @@
 				FC7566FD25FBE4A100CAF396 /* iPad4,7.png in Resources */,
 				FC75670525FBE4A100CAF396 /* AudioAccessory5,1.png in Resources */,
 				FC7566D125FBE4A100CAF396 /* iPad8,7.png in Resources */,
+				FC75673225FBF5A300CAF396 /* ipod.json in Resources */,
 				FC75670F25FBE4A100CAF396 /* iPad11,4.png in Resources */,
 				FC7566FC25FBE4A100CAF396 /* MacBookAir10,1.png in Resources */,
 				FC7566BC25FBE4A100CAF396 /* iPad2,5.png in Resources */,
+				FC75673125FBF5A300CAF396 /* t2.json in Resources */,
 				FC7566BA25FBE4A100CAF396 /* iPad6,12.png in Resources */,
 				FC7566AF25FBE4A100CAF396 /* iPad7,4.png in Resources */,
 				FC7566FA25FBE4A100CAF396 /* iPad2,1.png in Resources */,
@@ -629,6 +672,7 @@
 				FC75662D25FB926100CAF396 /* DownloadView.swift in Sources */,
 				FC1E634825FB917E009DFBFD /* ContentView.swift in Sources */,
 				FC75663025FB927100CAF396 /* ExtractView.swift in Sources */,
+				FC75673725FBF5DB00CAF396 /* devices.swift in Sources */,
 				FC1E634625FB917E009DFBFD /* ipswtoolApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

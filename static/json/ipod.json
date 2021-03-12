@@ -1,0 +1,51 @@
+{
+    "iPod1,1": {
+        "name": "iPod touch 1G",
+        "boardconfig": "n45ap",
+        "platform": "s5l8900x",
+        "cpid": 35072,
+        "bdid": 2
+    },
+    "iPod2,1": {
+        "name": "iPod touch 2G",
+        "boardconfig": "n72ap",
+        "platform": "s5l8720x",
+        "cpid": 34592,
+        "bdid": 0
+    },
+    "iPod3,1": {
+        "name": "iPod touch 3",
+        "boardconfig": "n18ap",
+        "platform": "s5l8922x",
+        "cpid": 35106,
+        "bdid": 2
+    },
+    "iPod4,1": {
+        "name": "iPod touch 4",
+        "boardconfig": "n81ap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 8
+    },
+    "iPod5,1": {
+        "name": "iPod touch 5",
+        "boardconfig": "n78ap",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 0
+    },
+    "iPod7,1": {
+        "name": "iPod touch 6",
+        "boardconfig": "N102AP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 16
+    },
+    "iPod9,1": {
+        "name": "iPod touch 7",
+        "boardconfig": "N112AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 22
+    }
+}
