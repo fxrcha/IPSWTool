@@ -486,6 +486,7 @@
 				FC1E633E25FB917D009DFBFD /* Sources */,
 				FC1E633F25FB917D009DFBFD /* Frameworks */,
 				FC1E634025FB917D009DFBFD /* Resources */,
+				FC1C086C25FBF8C400B8F681 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -663,6 +664,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		FC1C086C25FBF8C400B8F681 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "xattr -cr ~/Library/Developer/Xcode/DerivedData || echo Clear\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		FC1E633E25FB917D009DFBFD /* Sources */ = {
