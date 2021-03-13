@@ -1,0 +1,282 @@
+{
+    "iPhone1,1": {
+        "name": "iPhone 2G",
+        "boardconfig": "m68ap",
+        "platform": "s5l8900x",
+        "cpid": 35072,
+        "bdid": 0
+    },
+    "iPhone1,2": {
+        "name": "iPhone 3G",
+        "boardconfig": "n82ap",
+        "platform": "s5l8900x",
+        "cpid": 35072,
+        "bdid": 4
+    },
+    "iPhone2,1": {
+        "name": "iPhone 3G[S]",
+        "boardconfig": "n88ap",
+        "platform": "s5l8920x",
+        "cpid": 35104,
+        "bdid": 0
+    },
+    "iPhone3,1": {
+        "name": "iPhone 4 (GSM)",
+        "boardconfig": "n90ap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 0
+    },
+    "iPhone3,2": {
+        "name": "iPhone 4 (GSM / 2012)",
+        "boardconfig": "n90bap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 4
+    },
+    "iPhone3,3": {
+        "name": "iPhone 4 (CDMA)",
+        "boardconfig": "n92ap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 6
+    },
+    "iPhone4,1": {
+        "name": "iPhone 4[S]",
+        "boardconfig": "n94ap",
+        "platform": "s5l8940x",
+        "cpid": 35136,
+        "bdid": 8
+    },
+    "iPhone5,1": {
+        "name": "iPhone 5 (GSM)",
+        "boardconfig": "N41AP",
+        "platform": "s5l8950x",
+        "cpid": 35152,
+        "bdid": 0
+    },
+    "iPhone5,2": {
+        "name": "iPhone 5 (Global)",
+        "boardconfig": "N42AP",
+        "platform": "s5l8950x",
+        "cpid": 35152,
+        "bdid": 2
+    },
+    "iPhone5,3": {
+        "name": "iPhone 5c (GSM)",
+        "boardconfig": "N48AP",
+        "platform": "s5l8950x",
+        "cpid": 35152,
+        "bdid": 10
+    },
+    "iPhone5,4": {
+        "name": "iPhone 5c (Global)",
+        "boardconfig": "N49AP",
+        "platform": "s5l8950x",
+        "cpid": 35152,
+        "bdid": 14
+    },
+    "iPhone6,1": {
+        "name": "iPhone 5s (GSM)",
+        "boardconfig": "N51AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 0
+    },
+    "iPhone6,2": {
+        "name": "iPhone 5s (Global)",
+        "boardconfig": "N53AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 2
+    },
+    "iPhone7,1": {
+        "name": "iPhone 6+",
+        "boardconfig": "N56AP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 4
+    },
+    "iPhone7,2": {
+        "name": "iPhone 6",
+        "boardconfig": "N61AP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 6
+    },
+    "iPhone8,1": {
+        "name": "iPhone 6s",
+        "boardconfig": "N71AP",
+        "platform": "s8000",
+        "cpid": 32768,
+        "bdid": 4
+    },
+    "iPhone8,2": {
+        "name": "iPhone 6s+",
+        "boardconfig": "N66AP",
+        "platform": "s8000",
+        "cpid": 32768,
+        "bdid": 6
+    },
+    "iPhone8,4": {
+        "name": "iPhone SE",
+        "boardconfig": "N69AP",
+        "platform": "s8003",
+        "cpid": 32771,
+        "bdid": 2
+    },
+    "iPhone9,1": {
+        "name": "iPhone 7 (Global)",
+        "boardconfig": "D10AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 8
+    },
+    "iPhone9,2": {
+        "name": "iPhone 7 Plus (Global)",
+        "boardconfig": "D11AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 10
+    },
+    "iPhone9,3": {
+        "name": "iPhone 7 (GSM)",
+        "boardconfig": "D101AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 12
+    },
+    "iPhone9,4": {
+        "name": "iPhone 7 Plus (GSM)",
+        "boardconfig": "D111AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 14
+    },
+    "iPhone10,1": {
+        "name": "iPhone 8 (Global)",
+        "boardconfig": "D20AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 2
+    },
+    "iPhone10,2": {
+        "name": "iPhone 8 Plus (Global)",
+        "boardconfig": "D21AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 4
+    },
+    "iPhone10,3": {
+        "name": "iPhone X (Global)",
+        "boardconfig": "D22AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 6
+    },
+    "iPhone10,4": {
+        "name": "iPhone 8 (GSM)",
+        "boardconfig": "D201AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 10
+    },
+    "iPhone10,5": {
+        "name": "iPhone 8 Plus (GSM)",
+        "boardconfig": "D211AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 12
+    },
+    "iPhone10,6": {
+        "name": "iPhone X (GSM)",
+        "boardconfig": "D221AP",
+        "platform": "t8015",
+        "cpid": 32789,
+        "bdid": 14
+    },
+    "iPhone11,2": {
+        "name": "iPhone XS",
+        "boardconfig": "D321AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 14
+    },
+    "iPhone11,4": {
+        "name": "iPhone XS Max (China)",
+        "boardconfig": "D331AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 10
+    },
+    "iPhone11,6": {
+        "name": "iPhone XS Max",
+        "boardconfig": "D331pAP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 26
+    },
+    "iPhone11,8": {
+        "name": "iPhone XR",
+        "boardconfig": "N841AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 12
+    },
+    "iPhone12,1": {
+        "name": "iPhone 11",
+        "boardconfig": "N104AP",
+        "platform": "t8030",
+        "cpid": 32816,
+        "bdid": 4
+    },
+    "iPhone12,3": {
+        "name": "iPhone 11 Pro",
+        "boardconfig": "D421AP",
+        "platform": "t8030",
+        "cpid": 32816,
+        "bdid": 6
+    },
+    "iPhone12,5": {
+        "name": "iPhone 11 Pro Max",
+        "boardconfig": "D431AP",
+        "platform": "t8030",
+        "cpid": 32816,
+        "bdid": 2
+    },
+    "iPhone12,8": {
+        "name": "iPhone SE (2020)",
+        "boardconfig": "D79AP",
+        "platform": "t8030",
+        "cpid": 32816,
+        "bdid": 16
+    },
+    "iPhone13,1": {
+        "name": "iPhone 12 mini",
+        "boardconfig": "D52gAP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 10
+    },
+    "iPhone13,2": {
+        "name": "iPhone 12",
+        "boardconfig": "D53gAP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 12
+    },
+    "iPhone13,3": {
+        "name": "iPhone 12 Pro",
+        "boardconfig": "D53pAP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 14
+    },
+    "iPhone13,4": {
+        "name": "iPhone 12 Pro Max",
+        "boardconfig": "D54pAP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 8
+    }
+}

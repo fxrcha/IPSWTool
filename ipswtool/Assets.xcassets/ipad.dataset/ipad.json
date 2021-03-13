@@ -1,0 +1,429 @@
+{
+    "iPad1,1": {
+        "name": "iPad 1",
+        "boardconfig": "k48ap",
+        "platform": "s5l8930x",
+        "cpid": 35120,
+        "bdid": 2
+    },
+    "iPad2,1": {
+        "name": "iPad 2 (WiFi)",
+        "boardconfig": "k93ap",
+        "platform": "s5l8940x",
+        "cpid": 35136,
+        "bdid": 4
+    },
+    "iPad2,2": {
+        "name": "iPad 2 (GSM)",
+        "boardconfig": "k94ap",
+        "platform": "s5l8940x",
+        "cpid": 35136,
+        "bdid": 6
+    },
+    "iPad2,3": {
+        "name": "iPad 2 (CDMA)",
+        "boardconfig": "k95ap",
+        "platform": "s5l8940x",
+        "cpid": 35136,
+        "bdid": 2
+    },
+    "iPad2,4": {
+        "name": "iPad 2 (Mid 2012)",
+        "boardconfig": "k93aap",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 6
+    },
+    "iPad2,5": {
+        "name": "iPad Mini (WiFi)",
+        "boardconfig": "p105ap",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 10
+    },
+    "iPad2,6": {
+        "name": "iPad Mini (GSM)",
+        "boardconfig": "p106ap",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 12
+    },
+    "iPad2,7": {
+        "name": "iPad Mini (Global)",
+        "boardconfig": "p107ap",
+        "platform": "s5l8942x",
+        "cpid": 35138,
+        "bdid": 14
+    },
+    "iPad3,1": {
+        "name": "iPad 3 (WiFi)",
+        "boardconfig": "j1ap",
+        "platform": "s5l8945x",
+        "cpid": 35141,
+        "bdid": 0
+    },
+    "iPad3,2": {
+        "name": "iPad 3 (CDMA)",
+        "boardconfig": "j2ap",
+        "platform": "s5l8945x",
+        "cpid": 35141,
+        "bdid": 2
+    },
+    "iPad3,3": {
+        "name": "iPad 3 (GSM)",
+        "boardconfig": "j2aap",
+        "platform": "s5l8945x",
+        "cpid": 35141,
+        "bdid": 4
+    },
+    "iPad3,4": {
+        "name": "iPad 4 (WiFi)",
+        "boardconfig": "P101AP",
+        "platform": "s5l8955x",
+        "cpid": 35157,
+        "bdid": 0
+    },
+    "iPad3,5": {
+        "name": "iPad 4 (GSM)",
+        "boardconfig": "P102AP",
+        "platform": "s5l8955x",
+        "cpid": 35157,
+        "bdid": 2
+    },
+    "iPad3,6": {
+        "name": "iPad 4 (Global)",
+        "boardconfig": "P103AP",
+        "platform": "s5l8955x",
+        "cpid": 35157,
+        "bdid": 4
+    },
+    "iPad4,1": {
+        "name": "iPad Air (WiFi)",
+        "boardconfig": "J71AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 16
+    },
+    "iPad4,2": {
+        "name": "iPad Air (Cellular)",
+        "boardconfig": "J72AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 18
+    },
+    "iPad4,3": {
+        "name": "iPad Air (China)",
+        "boardconfig": "J73AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 20
+    },
+    "iPad4,4": {
+        "name": "iPad Mini 2 (WiFi)",
+        "boardconfig": "J85AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 10
+    },
+    "iPad4,5": {
+        "name": "iPad Mini 2 (Cellular)",
+        "boardconfig": "J86AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 12
+    },
+    "iPad4,6": {
+        "name": "iPad Mini 2 (China)",
+        "boardconfig": "J87AP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 14
+    },
+    "iPad4,7": {
+        "name": "iPad Mini 3 (WiFi)",
+        "boardconfig": "J85mAP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 50
+    },
+    "iPad4,8": {
+        "name": "iPad Mini 3 (Cellular)",
+        "boardconfig": "J86mAP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 52
+    },
+    "iPad4,9": {
+        "name": "iPad Mini 3 (China)",
+        "boardconfig": "J87mAP",
+        "platform": "s5l8960x",
+        "cpid": 35168,
+        "bdid": 54
+    },
+    "iPad5,1": {
+        "name": "iPad Mini 4 (WiFi)",
+        "boardconfig": "J96AP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 8
+    },
+    "iPad5,2": {
+        "name": "iPad Mini 4 (Cellular)",
+        "boardconfig": "J97AP",
+        "platform": "t7000",
+        "cpid": 28672,
+        "bdid": 10
+    },
+    "iPad5,3": {
+        "name": "iPad Air 2 (WiFi)",
+        "boardconfig": "J81AP",
+        "platform": "t7001",
+        "cpid": 28673,
+        "bdid": 6
+    },
+    "iPad5,4": {
+        "name": "iPad Air 2 (Cellular)",
+        "boardconfig": "J82AP",
+        "platform": "t7001",
+        "cpid": 28673,
+        "bdid": 2
+    },
+    "iPad6,3": {
+        "name": "iPad Pro 9.7-inch (WiFi)",
+        "boardconfig": "J127AP",
+        "platform": "s8001",
+        "cpid": 32769,
+        "bdid": 8
+    },
+    "iPad6,4": {
+        "name": "iPad Pro 9.7-inch (Cellular)",
+        "boardconfig": "J128AP",
+        "platform": "s8001",
+        "cpid": 32769,
+        "bdid": 10
+    },
+    "iPad6,7": {
+        "name": "iPad Pro 12.9-inch (WiFi)",
+        "boardconfig": "J98aAP",
+        "platform": "s8001",
+        "cpid": 32769,
+        "bdid": 16
+    },
+    "iPad6,8": {
+        "name": "iPad Pro 12.9-inch (Cellular)",
+        "boardconfig": "J99aAP",
+        "platform": "s8001",
+        "cpid": 32769,
+        "bdid": 18
+    },
+    "iPad6,11": {
+        "name": "iPad 5 (WiFi)",
+        "boardconfig": "J71sAP",
+        "platform": "s8000",
+        "cpid": 32768,
+        "bdid": 16
+    },
+    "iPad6,12": {
+        "name": "iPad 5 (Cellular)",
+        "boardconfig": "J72sAP",
+        "platform": "s8000",
+        "cpid": 32768,
+        "bdid": 18
+    },
+    "iPad7,1": {
+        "name": "iPad Pro 2 (12.9-inch, WiFi)",
+        "boardconfig": "J120AP",
+        "platform": "t8011",
+        "cpid": 32785,
+        "bdid": 12
+    },
+    "iPad7,2": {
+        "name": "iPad Pro 2 (12.9-inch, Cellular)",
+        "boardconfig": "J121AP",
+        "platform": "t8011",
+        "cpid": 32785,
+        "bdid": 14
+    },
+    "iPad7,3": {
+        "name": "iPad Pro (10.5-inch, WiFi)",
+        "boardconfig": "J207AP",
+        "platform": "t8011",
+        "cpid": 32785,
+        "bdid": 4
+    },
+    "iPad7,4": {
+        "name": "iPad Pro (10.5-inch, Cellular)",
+        "boardconfig": "J208AP",
+        "platform": "t8011",
+        "cpid": 32785,
+        "bdid": 6
+    },
+    "iPad7,5": {
+        "name": "iPad 6 (WiFi)",
+        "boardconfig": "J71bAP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 24
+    },
+    "iPad7,6": {
+        "name": "iPad 6 (Cellular)",
+        "boardconfig": "J72bAP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 26
+    },
+    "iPad7,11": {
+        "name": "iPad 7 (WiFi)",
+        "boardconfig": "J171AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 28
+    },
+    "iPad7,12": {
+        "name": "iPad 7 (Cellular)",
+        "boardconfig": "J172AP",
+        "platform": "t8010",
+        "cpid": 32784,
+        "bdid": 30
+    },
+    "iPad8,1": {
+        "name": "iPad Pro 3 (11-inch, WiFi)",
+        "boardconfig": "J317AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 12
+    },
+    "iPad8,2": {
+        "name": "iPad Pro 3 (11-inch, WiFi, 1TB Model)",
+        "boardconfig": "J317xAP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 28
+    },
+    "iPad8,3": {
+        "name": "iPad Pro 3 (11-inch, Cellular)",
+        "boardconfig": "J318AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 14
+    },
+    "iPad8,4": {
+        "name": "iPad Pro 3 (11-inch, Cellular, 1TB Model)",
+        "boardconfig": "J318xAP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 30
+    },
+    "iPad8,5": {
+        "name": "iPad Pro 3 (12.9-inch, WiFi)",
+        "boardconfig": "J320AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 8
+    },
+    "iPad8,6": {
+        "name": "iPad Pro 3 (12.9-inch, WiFi, 1TB Model)",
+        "boardconfig": "J320xAP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 24
+    },
+    "iPad8,7": {
+        "name": "iPad Pro 3 (12.9-inch, Cellular)",
+        "boardconfig": "J321AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 10
+    },
+    "iPad8,8": {
+        "name": "iPad Pro 3 (12.9-inch, Cellular, 1TB Model)",
+        "boardconfig": "J321xAP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 26
+    },
+    "iPad8,9": {
+        "name": "iPad Pro 4 (11-inch, WiFi)",
+        "boardconfig": "J417AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 60
+    },
+    "iPad8,10": {
+        "name": "iPad Pro 4 (11-inch, Cellular)",
+        "boardconfig": "J418AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 62
+    },
+    "iPad8,11": {
+        "name": "iPad Pro 4 (12.9-inch, WiFi)",
+        "boardconfig": "J420AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 56
+    },
+    "iPad8,12": {
+        "name": "iPad Pro 4 (12.9-inch, Cellular)",
+        "boardconfig": "J421AP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 58
+    },
+    "iPad11,1": {
+        "name": "iPad Mini 5 (WiFi)",
+        "boardconfig": "J210AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 20
+    },
+    "iPad11,2": {
+        "name": "iPad Mini 5 (Cellular)",
+        "boardconfig": "J211AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 22
+    },
+    "iPad11,3": {
+        "name": "iPad Air 3 (WiFi)",
+        "boardconfig": "J217AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 28
+    },
+    "iPad11,4": {
+        "name": "iPad Air 3 (Cellular)",
+        "boardconfig": "J218AP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 30
+    },
+    "iPad11,6": {
+        "name": "iPad 8 (WiFi)",
+        "boardconfig": "J171aAP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 36
+    },
+    "iPad11,7": {
+        "name": "iPad 8 (Cellular)",
+        "boardconfig": "J172aAP",
+        "platform": "t8020",
+        "cpid": 32800,
+        "bdid": 38
+    },
+    "iPad13,1": {
+        "name": "iPad Air 4 (WiFi)",
+        "boardconfig": "J307AP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 4
+    },
+    "iPad13,2": {
+        "name": "iPad Air 4 (Cellular)",
+        "boardconfig": "J308AP",
+        "platform": "t8101",
+        "cpid": 33025,
+        "bdid": 6
+    }
+}

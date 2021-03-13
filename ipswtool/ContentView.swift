@@ -60,22 +60,22 @@ struct ContentView: View {
                     }
                 }
                 Section(header: Text("Downloads")){
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: iPhoneView()) {
                         Label("iPhone", systemImage: "iphone")
                     }
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: iPadView()) {
                         Label("iPad", systemImage: "ipad")
                     }
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: iPodView()) {
                         Label("iPod", systemImage: "ipodtouch")
                     }
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: MacView()) {
                         Label("Mac (Apple Silicon)", systemImage: "desktopcomputer")
                     }
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: EtcView()) {
                         Label("Apple TV & HomePod", systemImage: "homepod")
                     }
-                    NavigationLink(destination: DefaultView()) {
+                    NavigationLink(destination: T2View()) {
                         Label("T2 Chips", systemImage: "memorychip")
                     }
                 }

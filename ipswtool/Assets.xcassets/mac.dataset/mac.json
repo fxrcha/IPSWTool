@@ -1,0 +1,30 @@
+{
+    "Macmini9,1": {
+        "name": "Mac Mini (M1, Late 2020)",
+        "boardconfig": "J274AP",
+        "platform": "t8103",
+        "cpid": 33027,
+        "bdid": 34
+    },
+    "MacBookPro17,1": {
+        "name": "MacBook Pro (M1, Late 2020)",
+        "boardconfig": "J293AP",
+        "platform": "t8103",
+        "cpid": 33027,
+        "bdid": 36
+    },
+    "MacBookAir10,1": {
+        "name": "MacBook Air (M1, Late 2020)",
+        "boardconfig": "J313AP",
+        "platform": "t8103",
+        "cpid": 33027,
+        "bdid": 38
+    },
+    "ADP3,2": {
+        "name": "Developer Transition Kit",
+        "boardconfig": "J273aAP",
+        "platform": "t8027",
+        "cpid": 32807,
+        "bdid": 66
+    }
+}
